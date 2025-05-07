@@ -1,6 +1,6 @@
 # Exp.No:25  
 ## Hierarchical Inheritance
-
+ 
 ---
 
 ### AIM  
